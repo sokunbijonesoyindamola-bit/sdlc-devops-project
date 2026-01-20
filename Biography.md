@@ -11,7 +11,7 @@ I’m a beginner in tech and I’m currently learning web development and other 
 | Topic | Status | Notes |
 |----------|----------|----------|
 | HTML    | Learning     | Tags and structure  |
-| CSS    | Data     | Data     |
+| CSS    | Learning    | Flexbox & positioning     |
 |Markdown | Completed| README.md |
 | Github | Learning | Pushing Projects|
 ### Week 1
